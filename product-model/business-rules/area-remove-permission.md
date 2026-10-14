@@ -16,6 +16,6 @@ references:
   target: server/router/location-router.go#delete
 ---
 
-# Only Areas administrators delete a Area
+# Only Areas administrators delete an Area
 
-Deleting a Area, with everything booked in it, takes Areas access Admin.
+Deleting an Area, with everything booked in it, takes Areas access Admin.

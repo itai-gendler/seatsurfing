@@ -16,6 +16,6 @@ references:
   target: server/router/location-router.go#create
 ---
 
-# Only Areas administrators create a Area
+# Only Areas administrators create an Area
 
-Creating a Area takes Areas access Admin.
+Creating an Area takes Areas access Admin.
